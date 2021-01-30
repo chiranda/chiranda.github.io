@@ -1,11 +1,11 @@
 		h1{
-			    background-color : rgb(200,0,0);
-				color : blue;
+			    background-color : rgb(103,103,0);
+				color : white;
 				text-align : center;
 			}
 			h3{
-			    background-color : yellow;
-				color : rgb(0,0,125);
+			    background-color : rgb(103,103,10);
+				color : white;
 				text-align : center; 
 				moz-animation-duration: 2s;
                 -webkit-animation-duration: 2s;
