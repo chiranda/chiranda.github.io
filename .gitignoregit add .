@@ -1,0 +1,30 @@
+# KiCad 9 project files to include
+!.kicad_pro
+!.kicad_sch
+!.kicad_pcb
+!.kicad_sym
+!.kicad_mod
+
+# Temporary or generated files
+*.bak
+*.bck
+*.tmp
+*.net
+*.xml
+*.csv
+*.dcm
+*.dsn
+*.ses
+*.zip
+*.cache.lib
+fp-info-cache
+_autosave-*
+*.kicad_prl
+*-backups/
+sym-lib-table-bak
+fp-lib-table-bak
+
+# OS junk
+.DS_Store
+Thumbs.db
+
